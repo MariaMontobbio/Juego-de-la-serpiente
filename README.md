@@ -1,5 +1,11 @@
 # Juego-de-la-serpiente
 
+## Descripcion
+
+## Tecnologias usadas
+![](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+
 # Libreria de colores para C / C++ 🎨
 
 Permite modificar el **color de fuente**  del texto y **color de fondo** en consola al momento de ejecucion.
